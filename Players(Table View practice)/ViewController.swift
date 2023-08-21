@@ -12,10 +12,12 @@ class ViewController: UIViewController {
     @IBOutlet var tableview: UITableView!
     
     let players = [
-        "Jean Fernandes",
-        "Eduardo Brock", "Jorge Morel", "Santiago Arzamendia", "Alan Benítez",
-        "Wilder Viera", "Rafael Carrascal", "Cecilio Domínguez", "Pachi Carrizo",
-        "Alfio Oviedo", "Diego Churín"
+        "Jean Fernandes", "Miguel Martínez", "José Miers",
+        "Eduardo Brock", "Pedro Álvarez", "Jorge Morel", "Lucas Quintana",
+        "Santiago Arzamendia", "Luis Vargas", "Alan Benítez", "Alan Núñez",
+        "Wilder Viera", "Fabrizio Peralta", "Rafael Carrascal", "Damián Bobadilla",
+        "Cecilio Domínguez", "Federico Carrizo", "Fredy Vera", "Enzo Giménez",
+        "Alfio Oviedo", "Diego Churín", "Fernando Fernández", "Luis Riveros"
     ]
     
     override func viewDidLoad() {
